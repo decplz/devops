@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 104A-B18D
+
+ Directory of C:\Users\NIKHITHA\Desktop\Devops\GIT_project
+
+05/14/2019  09:46 PM    <DIR>          .
+05/14/2019  09:46 PM    <DIR>          ..
+05/14/2019  08:42 PM             9,459 file1.txt
+05/14/2019  08:42 PM             9,459 file2.txt
+05/14/2019  09:46 PM                 0 file3.txt
+               3 File(s)         18,918 bytes
+               2 Dir(s)  31,084,593,152 bytes free
